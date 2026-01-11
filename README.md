@@ -1,4 +1,4 @@
-**# 📊 Social Media Engagement Predictor
+📊 Social Media Engagement Predictor
 
 A machine learning–powered **Streamlit web application** that predicts social media engagement based on post timing, sentiment, platform, and content type.
 
@@ -47,4 +47,3 @@ https://social-media-engagement-app-jimx7lj3rrnxes9erwfqtp.streamlit.app/
 ---
 
 ## 📂 Project Structure
-**
